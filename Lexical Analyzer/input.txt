@@ -1,0 +1,11 @@
+String greeting = "Hello, world!";
+
+
+
+int a, b=10;
+a =bc*10-&(3.2+"abc";
+
+
+
+int a1,
+b.10, "abc
